@@ -421,7 +421,17 @@ with tab4:
             submitted = st.form_submit_button("📩 Send Inquiry")
             
             if submitted:
-                st.success("Thank you for your inquiry! We will contact you within 24 hours with absolute discretion.")
+                # Build mailto link with form data
+                subject = f"Booking Inquiry - {preferred}"
+                body = f"""Name: {name}
+Email: {email}
+Phone: {phone}
+Preferred Angel: {preferred}
+Message: {occasion}"""
+                import urllib.parse
+                mailto_link = f"mailto:businessalmonte@gmail.com?subject={urllib.parse.quote(subject)}&body={urllib.parse.quote(body)}"
+                st.markdown(f'<meta http-equiv="refresh" content="0; url={mailto_link}">', unsafe_allow_html=True)
+                st.success("Thank you for your inquiry! Your email client will open to send your message. We will contact you within 24 hours with absolute discretion.")
     
 
 # Footer
