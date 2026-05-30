@@ -249,66 +249,66 @@ with tab2:
         {
             "name": "Sofia",
             "age": 24,
-            "image": "assets/sofia.jpg",
+            "image": "assets/11.jpg",
             "description": "Elegant and sophisticated, Sofia is the perfect companion for high-end events and romantic dinners. With her captivating smile and intelligent conversation, she will make any occasion special.",
             "stats": ["175 cm", "55 kg", "Brown Eyes", "Brunette", "Spanish"],
-            "rate": "€300/hr"
+            "rate": "$300/hr"
         },
         {
             "name": "Isabella",
             "age": 26,
-            "image": "assets/isabella.jpg",
+            "image": "assets/22.jpg",
             "description": "A true goddess with mesmerizing blue eyes. Isabella is passionate, adventurous, and loves to travel. She speaks three languages and is the ideal companion for international trips.",
             "stats": ["170 cm", "58 kg", "Blue Eyes", "Blonde", "Italian"],
-            "rate": "€350/hr"
+            "rate": "$310/hr"
         },
         {
             "name": "Valentina",
             "age": 23,
-            "image": "assets/valentina.jpg",
+            "image": "assets/33.jpg",
             "description": "Exotic beauty with a warm heart. Valentina is known for her sensual dance moves and charming personality. She will make you feel like the most special person in the world.",
             "stats": ["168 cm", "52 kg", "Green Eyes", "Red Hair", "Brazilian"],
-            "rate": "€280/hr"
+            "rate": "$280/hr"
         },
         {
             "name": "Camila",
             "age": 25,
-            "image": "assets/camila.jpg",
+            "image": "assets/44.jpg",
             "description": "Athletic and energetic, Camila is the perfect partner for active dates. From hiking to dancing, she brings positive energy and a radiant smile to every encounter.",
             "stats": ["172 cm", "60 kg", "Hazel Eyes", "Brown", "Colombian"],
-            "rate": "€320/hr"
+            "rate": "$320/hr"
         },
         {
             "name": "Luna",
             "age": 22,
-            "image": "assets/luna.jpg",
+            "image": "assets/55.jpg",
             "description": "Mysterious and alluring, Luna has a magnetic presence that draws people in. She is an artist and a dreamer, with a deep appreciation for fine wine and classical music.",
             "stats": ["165 cm", "50 kg", "Dark Eyes", "Black", "French"],
-            "rate": "€290/hr"
+            "rate": "$290/hr"
         },
         {
             "name": "Gabriela",
             "age": 27,
-            "image": "assets/gabriela.jpg",
+            "image": "assets/66.jpg",
             "description": "Mature and refined, Gabriela offers a premium VIP experience. With her extensive knowledge of fine dining and fashion, she is the ultimate companion for discerning gentlemen.",
             "stats": ["178 cm", "62 kg", "Amber Eyes", "Blonde", "Russian"],
-            "rate": "€400/hr"
+            "rate": "$300/hr"
         },
         {
             "name": "Angelina",
             "age": 24,
-            "image": "assets/angelina.jpg",
+            "image": "assets/77.jpg",
             "description": "Sweet and affectionate, Angelina has a natural talent for making people feel comfortable. Her warm personality and stunning looks make her one of our most requested angels.",
             "stats": ["167 cm", "54 kg", "Brown Eyes", "Light Brown", "American"],
-            "rate": "€310/hr"
+            "rate": "$310/hr"
         },
         {
             "name": "Victoria",
             "age": 25,
-            "image": "assets/victoria.jpg",
+            "image": "assets/88.jpg",
             "description": "Confident and charismatic, Victoria commands attention wherever she goes. A former model, she knows how to present herself with grace and style for any high-profile event.",
             "stats": ["180 cm", "63 kg", "Gray Eyes", "Platinum Blonde", "Swedish"],
-            "rate": "€380/hr"
+            "rate": "$300/hr"
         }
     ]
     
