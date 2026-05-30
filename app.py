@@ -263,12 +263,12 @@ with tab2:
             "rate": "$310/hr"
         },
         {
-            "name": "Valentina",
-            "age": 23,
-            "image": "assets/33.jpg",
-            "description": "Exotic beauty with a warm heart. Valentina is known for her sensual dance moves and charming personality. She will make you feel like the most special person in the world.",
-            "stats": ["168 cm", "52 kg", "Green Eyes", "Red Hair", "Brazilian"],
-            "rate": "$280/hr"
+            "name": "Rose",
+            "age": 25,
+            "image": "assets/111.jpg",
+            "description": "Exotic beauty with a warm heart. Rose is known for her sensual dance moves and charming personality. She will make you feel like the most special person in the world.",
+            "stats": ["168 cm", "52 kg", "Brown Eyes", "Red Hair", "Caucasian"],
+            "rate": "$300/hr"
         },
         {
             "name": "Camila",
