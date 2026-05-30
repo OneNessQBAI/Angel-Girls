@@ -247,11 +247,11 @@ with tab2:
     # Profile data
     profiles = [
         {
-            "name": "Sofia",
-            "age": 24,
-            "image": "assets/11.jpg",
-            "description": "Elegant and sophisticated, Sofia is the perfect companion for high-end events and romantic dinners. With her captivating smile and intelligent conversation, she will make any occasion special.",
-            "stats": ["175 cm", "55 kg", "Brown Eyes", "Brunette", "Spanish"],
+            "name": "Sarah",
+            "age": 25,
+            "image": "assets/222.jpg",
+            "description": "Elegant and sophisticated, Sarah is the perfect companion for high-end events and romantic dinners. With her captivating smile and intelligent conversation, she will make any occasion special.",
+            "stats": ["175 cm", "55 kg", "Brown Eyes", "Brunette", "Caucasian"],
             "rate": "$300/hr"
         },
         {
