@@ -400,7 +400,7 @@ with tab4:
             <h3 style="color: #e94560; margin-bottom: 1.5rem;">Contact Information</h3>
             <p style="color: #ccc; margin-bottom: 1rem;">📧 <strong>Email:</strong> businessalmonte@gmail.com</p>
             <p style="color: #ccc; margin-bottom: 1rem;">📱 <strong>Phone:</strong> +1 (343) 961-6995</p>
-            <p style="color: #ccc; margin-bottom: 1rem;">📍 <strong>Location:</strong> Available worldwide</p>
+            <p style="color: #ccc; margin-bottom: 1rem;">📍 <strong>Location:</strong> Ottawa Gatineau</p>
             <p style="color: #ccc;">🕐 <strong>Hours:</strong> 24/7 - Always available</p>
         </div>
         """, unsafe_allow_html=True)
