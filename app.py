@@ -423,12 +423,6 @@ with tab4:
             if submitted:
                 st.success("Thank you for your inquiry! We will contact you within 24 hours with absolute discretion.")
     
-    st.markdown("""
-    <div class="disclaimer">
-        ⚠️ DISCLAIMER: This is a fictional demonstration app created for portfolio purposes. 
-        All profiles, images, and content are simulated. No real services are offered.
-    </div>
-    """, unsafe_allow_html=True)
 
 # Footer
 st.markdown("""
